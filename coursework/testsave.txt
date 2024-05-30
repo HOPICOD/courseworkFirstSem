@@ -1,0 +1,42 @@
+Original matrix:
+-49.59 34.67 13.34
+15 41.69 7.24
+-35.22 43.58 19.62
+
+
+Matrix sorted by the bubble method:
+-49.59 43.58 19.62
+-35.22 41.69 13.34
+15 34.67 7.24
+
+
+Matrix sorted by the selection method:
+-49.59 43.58 19.62
+-35.22 41.69 13.34
+15 34.67 7.24
+
+
+Matrix sorted by the insertion method:
+-49.59 43.58 19.62
+-35.22 41.69 13.34
+15 34.67 7.24
+
+
+Matrix sorted by the Shell method:
+-49.59 43.58 19.62
+-35.22 41.69 13.34
+15 34.67 7.24
+
+
+Matrix sorted by the quick method:
+-49.59 43.58 19.62
+-35.22 41.69 13.34
+15 34.67 7.24
+
+
+Algorithm 	Swaps 	Comparisons
+Bubble sort 	6 	16
+Selection sort 	4 	9
+Insertion sort 	6 	9
+Shell sort 	6 	9
+Quick sort 	4 	8
